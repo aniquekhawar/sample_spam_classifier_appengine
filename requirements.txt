@@ -4,3 +4,5 @@ flask
 pylint
 scikit-learn==0.23.2
 google-cloud-storage
+google-api-python-client
+gunicorn
