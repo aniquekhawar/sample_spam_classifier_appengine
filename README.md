@@ -3,6 +3,7 @@ I built a sample ham-or-spam classifier using a scikit-learn model deployed on G
 
 ## Breakdown Video
 If you want to see a 30-second demo of the file run locally, feel free to click the image below.
+
 [![Alt text](https://img.youtube.com/vi/3EUoh797zMs/0.jpg)](https://www.youtube.com/watch?v=3EUoh797zMs)
 
 ## Requirements
